@@ -1,0 +1,10 @@
+.vscode
+*.egg-info/
+*.pyc
+# Ignore virtual env directory
+*env/
+# Ignore flaskr created db directory
+instance/
+# Ignore setuptools output
+build/
+dist/
